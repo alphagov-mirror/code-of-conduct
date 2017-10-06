@@ -2,7 +2,7 @@
 
 Contributors to repositories hosted in `alphagov` are expected to
 follow the Contributor Covenant Code of
-Conduct as well as the Civil Service Code
+Conduct, and those working within Government are also expected to follow the Civil Service Code 
 
 ## Civil Service Code
 
