@@ -10,6 +10,11 @@ The [Civil Service Code](https://www.gov.uk/government/publications/civil-servic
 
 ## Contributor Covenant Code of Conduct
 
+> Note: 
+> * where the code of conduct says "project" we mean GDS, `alphagov` and all repositories hosted within it. 
+> * where the code of conduct says "maintainer" we mean `alphagov` organisation owners
+> * where the code of conduct says "leadership" we mean both `alphagov` organisation owners, line managers, and other leadership within GDS
+
 ### Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
